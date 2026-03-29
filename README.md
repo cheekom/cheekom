@@ -2,8 +2,9 @@
 
 <div align="center" style="color: #AB98B7;">Hard to read and hard to speak to but don't take my word.</div>
 
+
+
 <div align="center">
-
+  
 ![ฅ^•ﻌ•^ฅ♡](https://img.shields.io/badge/ฅ^•ﻌ•^ฅ♡-670-AB98B7)
-
 </div>
