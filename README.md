@@ -1,6 +1,5 @@
-<img width="2048" height="2048" alt="Untitled82_20260412100320" src="https://github.com/user-attachments/assets/f547ee6e-d299-4d09-9470-feb1d44911fc" />
+# Badges
 
+!["ദ്ദി ༎ຶ‿༎ຶ )" badge](https://img.shields.io/badge/ideanumber-677-F9D175)  
 
-<div align="center">
-
-
+[Insert other existing badges here]  
