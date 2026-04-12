@@ -2,7 +2,5 @@
 
 
 <div align="center">
-  
-![ദ്ദി ༎ຶ‿༎ຶ )](https://img.shields.io/badge/ദ്ദി%20༎ຶ‿༎ຶ%20)-670-F9D175)
-</div>
+
 
