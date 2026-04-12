@@ -1,7 +1,8 @@
-<img width="1665" height="2005" alt="Untitled64_20260328172255" src="https://github.com/user-attachments/assets/1029a89a-d14f-4d5a-81f9-3de82351531b" />
+<img width="2048" height="2048" alt="Untitled82_20260412100320" src="https://github.com/user-attachments/assets/f547ee6e-d299-4d09-9470-feb1d44911fc" />
+
 
 
 <div align="center">
   
-![ฅ^•ﻌ•^ฅ♡](https://img.shields.io/badge/ฅ^•ﻌ•^ฅ♡-670-AB98B7)
+![ฅ^•ﻌ•^ฅ♡](https://img.shields.io/badge/ฅ^•ﻌ•^ฅ♡-670-F9D175)
 </div>
