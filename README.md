@@ -1,6 +1,6 @@
 <p align="center">
-<img width="500" height="500" alt="peak-monika" src="https://github.com/user-attachments/assets/5ad49da0-a817-489f-996b-549bf13e4d96" style="background: white; padding: 20px; border-radius: 10px; mix-blend-mode: multiply;" />
-</p>
+<img width="2394" height="2191" alt="Untitled175_20260608145035" src="https://github.com/user-attachments/assets/6f5cefd1-67b3-4f1a-b8e1-a31edbd6f9ba" />
+
 
 <div align="center">
 
