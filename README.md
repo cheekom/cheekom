@@ -1,5 +1,6 @@
-<p align="center">
-<img width="500" height="500" alt="DDLC_Monika_chibi_peak-removebg-preview" src="https://github.com/user-attachments/assets/8979ef0f-f025-491f-85f9-5db5e1cb7316" />
+<p align="center" style="background: white; padding: 20px; border-radius: 10px; display: inline-block;">
+<img width="500" height="500" alt="Monika Peak" src="peak-monika.png" />
+</p>
 
 <div align="center">
 
