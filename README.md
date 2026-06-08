@@ -1,6 +1,5 @@
-<img width="500" height="500" alt="90fa7243442653fff4d25bd698c7c9a0-removebg-preview" src="https://github.com/user-attachments/assets/885accde-161d-4b4d-bd00-f2f918dddae9" />
-
-
+<p align="center">
+<img width="500" height="500" alt="DDLC_Monika_chibi_peak-removebg-preview" src="https://github.com/user-attachments/assets/8979ef0f-f025-491f-85f9-5db5e1cb7316" />
 
 <div align="center">
 
